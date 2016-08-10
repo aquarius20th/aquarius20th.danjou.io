@@ -54,10 +54,10 @@ urlcleaner:
 
 context:
     data:
-        site_url: https://julien.danjou.info
+        site_url: https://aquarius20th.danjou.io
         site_title: Julien Danjou
         blog_title: jd:/dev/blog
         author:
             name: Julien Danjou
-            url: "https://julien.danjou.info"
+            url: "https://aquarius20th.danjou.io"
         google_analytics_id: UA-25393581-1
